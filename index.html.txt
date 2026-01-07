@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ANNA MARIYA</title>
+</head>
+<body>
+  <h1>Hello, I’m Anna</h1>
+  <p>This is my personal website.</p>
+</body>
+</html>
